@@ -42,7 +42,7 @@ public class BaseClass {
 	else {
 			System.out.println("invalid browser");
 		}
-		 sdriver = driver;
+		// sdriver = driver;
 		wLib.maximizeTheBrowser(driver);
 	}
 

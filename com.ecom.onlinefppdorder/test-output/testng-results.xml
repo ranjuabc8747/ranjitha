@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-30T13:12:34 IST" name="Default suite" finished-at="2023-09-30T13:12:35 IST" duration-ms="100">
+    <groups>
+    </groups>
+    <test started-at="2023-09-30T13:12:34 IST" name="Default test" finished-at="2023-09-30T13:12:35 IST" duration-ms="100">
+      <class name="com.ecom.onlinefppdorder.UserLoginTest">
+        <test-method signature="userLogin()[pri:0, instance:com.ecom.onlinefppdorder.UserLoginTest@36902638]" started-at="2023-09-30T13:12:35 IST" name="userLogin" finished-at="2023-09-30T13:12:35 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLogin -->
+      </class> <!-- com.ecom.onlinefppdorder.UserLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
